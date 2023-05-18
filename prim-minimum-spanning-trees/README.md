@@ -1,4 +1,4 @@
-# Homework 06 - Prim's algorithm for Minimum Spanning Trees
+# Homework - Prim's algorithm for Minimum Spanning Trees
 
 ## Purpose
 To understand the implementation and functionality of Prim's algorithm for finding a minimum spanning tree in an undirected weighted graph.
