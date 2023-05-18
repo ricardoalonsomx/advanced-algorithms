@@ -1,4 +1,4 @@
-# Homework 09 - Convex hull
+# Homework - Convex hull
 
 ## Purpose
 To understand the implementation and functionality of the algorithm for finding the convex hull of a set of points.
