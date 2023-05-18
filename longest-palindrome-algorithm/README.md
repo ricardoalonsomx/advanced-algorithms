@@ -1,4 +1,4 @@
-# Homework 04 - Longest palindrome algorithm
+# Homework - Longest palindrome algorithm
 
 ## Purpose
 To understand the implementation and functionality of the Manacher's algorithm for finding the longest palindrome.
