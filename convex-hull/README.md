@@ -32,10 +32,10 @@ Your program should compile without errors or warnings and should run correctly 
 To obtain 100% of the points for this activity, your program should:
 
 - **80%** - List 4 test cases for each of the functionalities, where each case will be evaluated as follows:
-  - **Excelente (80%)** - correctly evaluates all 4 test cases.
-  - **Muy Bien (60%)** - correctly evaluates 3 test cases.
-  - **Bien (40%)** - correctly evaluates 2 test cases.
-  - **Insuficientre (20%)** - correctly evaluates 1 or 0 test cases.
+  - **Excellent (80%)** - correctly evaluates all 4 test cases.
+  - **Very Good (60%)** - correctly evaluates 3 test cases.
+  - **Good (40%)** - correctly evaluates 2 test cases.
+  - **Insufficient (20%)** - correctly evaluates 1 or 0 test cases.
 - **20%** - The code should follow the coding standards specified in the provided coding standards [document](https://experiencia21.tec.mx/courses/173572/files/52881961?wrap=1)
 
 ## Where do I submit it?
