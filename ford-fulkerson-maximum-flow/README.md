@@ -1,4 +1,4 @@
-# Homework 08 - Ford-Fulkerson for Maximum Flow in Networks
+# Homework - Ford-Fulkerson for Maximum Flow in Networks
 
 ## Purpose
 To understand the implementation and functionality of the Ford-Fulkerson algorithm for finding the maximum flow in a graph.
